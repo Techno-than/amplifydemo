@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn AWS - Hosting ReactJs web application on AWS
+          Learn AWS - Hosting ReactJs web application on AWS using Amplify
         </a>
       </header>
     </div>
